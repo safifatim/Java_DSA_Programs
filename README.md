@@ -1,4 +1,4 @@
-#_DSA_Programs
+## DSA_Programs
 
 This repository contains **Java implementations of core Data Structures and Algorithms**, designed for academic learning and practice. Each module is implemented in a clear, structured manner with proper time and space complexity annotations where applicable.
 
